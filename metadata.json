@@ -1,0 +1,6 @@
+{
+  "name": "Outreach Studio",
+  "description": "Multi-tenant SME website outreach dashboard with automated research, brief reviews, site build tracking, and WhatsApp campaign management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
